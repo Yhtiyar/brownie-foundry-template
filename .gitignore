@@ -6,3 +6,8 @@ out/
 !/broadcast
 /broadcast/*
 /broadcast/*/31337/
+
+# brownie
+build/
+__pycache__/
+.pytest_cache/
