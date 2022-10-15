@@ -3,7 +3,7 @@ This directory contains a generated cli and python interface to the smart contra
 ### run cli
 
 ```bash
-python3 DummyToken.py -h
+python3 Counter.py -h
 ```
 
 ### Generate for a new contract:
