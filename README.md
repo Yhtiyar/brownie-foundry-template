@@ -3,7 +3,9 @@
 Template repository for getting started quickly with Brownie and Foundry in one project
 Inspired by [hardhat-foundry-template](https://github.com/foundry-rs/hardhat-foundry-template)
 
-Getting Started
+## Getting Started
+
+Click [`use this template`](https://github.com/Yhtiyar/brownie-foundry-template) to create a new repository with this repo as the initial state.
 
 - Use Foundry:
 
