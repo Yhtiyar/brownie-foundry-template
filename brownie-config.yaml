@@ -3,3 +3,4 @@ compiler:
     remappings:
       - ds-test/=lib/forge-std/lib/ds-test/src/
       - forge-std/=lib/forge-std/src/
+      - openzeppelin/=lib/openzeppelin/contracts/
