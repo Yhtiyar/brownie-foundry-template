@@ -1,6 +1,7 @@
 # Brownie x Foundry Template
 
-Template repository for getting started quickly with Brownie and Foundry in one project
+Template repository for getting started quickly with Brownie and Foundry in one project.
+
 Inspired by [hardhat-foundry-template](https://github.com/foundry-rs/hardhat-foundry-template)
 
 ## Getting Started
