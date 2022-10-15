@@ -11,7 +11,7 @@ python3 DummyToken.py -h
 1. Install moonworm, if you haven't already:
 
 ```bash
-   pip install moonworm
+pip install moonworm
 ```
 
 2. Run from the root directory of the project:
