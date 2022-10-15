@@ -24,11 +24,11 @@ brownie test
 
 - Write / run tests with either Brownie or Foundry:
 
-```
-forge test
-# or
-brownie test
-```
+  ```
+  forge test
+  # or
+  brownie test
+  ```
 
 - Install libraries with Foundry which work with Brownie:
 
