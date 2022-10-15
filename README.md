@@ -8,6 +8,11 @@ Inspired by [hardhat-foundry-template](https://github.com/foundry-rs/hardhat-fou
 
 Click [`use this template`](https://github.com/Yhtiyar/brownie-foundry-template/generate) to create a new repository with this repo as the initial state.
 
+Init submodules:
+```bash
+git submodule init && git submodule update
+```
+
 - Use Foundry:
 
 ```bash
