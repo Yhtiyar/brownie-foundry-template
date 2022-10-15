@@ -5,7 +5,7 @@ Inspired by [hardhat-foundry-template](https://github.com/foundry-rs/hardhat-fou
 
 ## Getting Started
 
-Click [`use this template`](https://github.com/Yhtiyar/brownie-foundry-template) to create a new repository with this repo as the initial state.
+Click [`use this template`](https://github.com/Yhtiyar/brownie-foundry-template/generate) to create a new repository with this repo as the initial state.
 
 - Use Foundry:
 
