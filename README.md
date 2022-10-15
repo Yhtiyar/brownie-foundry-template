@@ -27,7 +27,7 @@ brownie test
 ```
 forge test
 # or
-npx hardhat test
+brownie test
 ```
 
 - Install libraries with Foundry which work with Brownie:
